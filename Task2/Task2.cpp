@@ -11,11 +11,15 @@ double f(double x) {
     
 }
 
-int main()
+void main()
 {
-    double x;
+    double x, fun;
     cin >> x;
-    cout << f;
+    fun = f(x);
+    cout << fun;
    
 }
+
+
+
 
