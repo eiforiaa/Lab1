@@ -1,2 +1,4 @@
 C:\Users\HP\Desktop\Lab1\Repoz\lab2\lab2\Debug\lab2.exe
 C:\Users\HP\Desktop\Lab1\Repoz\lab2\lab2\Debug\lab2.pdb
+C:\Users\HP\Desktop\Lab1\Repoz\lab2\Task1\Debug\Task1.exe
+C:\Users\HP\Desktop\Lab1\Repoz\lab2\Task1\Debug\Task1.pdb
