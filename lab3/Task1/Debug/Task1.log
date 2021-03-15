@@ -1,0 +1,4 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Task1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Task1.cpp
+D:\Github\LR3\Task1\Task1.cpp(15,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Task1.vcxproj -> D:\Github\LR3\Task1\Debug\Task1_1.exe

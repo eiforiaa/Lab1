@@ -1,0 +1,3 @@
+﻿  Task3_3.cpp
+D:\Github\LR3\Task3_3\Task3_3.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Task3_3.vcxproj -> D:\Github\LR3\Task1\Debug\Task3_3.exe

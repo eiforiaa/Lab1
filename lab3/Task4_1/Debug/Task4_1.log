@@ -1,0 +1,4 @@
+﻿  Task4_1.cpp
+D:\Github\LR3\Task4_1\Task4_1.cpp(15,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Github\LR3\Task4_1\Task4_1.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Task4_1.vcxproj -> D:\Github\LR3\Task1\Debug\Task4_1.exe
