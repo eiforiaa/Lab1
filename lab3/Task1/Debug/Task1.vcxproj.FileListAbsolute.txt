@@ -1,2 +1,4 @@
 D:\Github\LR3\Task1\Debug\Task1_1.exe
 D:\Github\LR3\Task1\Debug\Task1_1.pdb
+C:\Users\HP\Desktop\Lab1\Repoz\lab3\Task1\Debug\Task1_1.exe
+C:\Users\HP\Desktop\Lab1\Repoz\lab3\Task1\Debug\Task1_1.pdb
